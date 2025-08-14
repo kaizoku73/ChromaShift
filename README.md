@@ -73,6 +73,9 @@ python cli.py extract --stego encoded.png --key mypassword123
 - **Start/End Markers**: `HISTOSTART` and `HISTO_END!` markers for data validation
 - **Randomized Selection**: Cryptographically secure pixel position randomization
 
+## What is Histogram shift and how does it work?
+For a detailed explanation of Histogram shift steganography and how it works, check out this article: https://kaizoku.gitbook.io/steganography/histogram-shift-in-image
+
 ## 🎯 Technical Specifications
 
 - **Image Format**: PNG only (automatically validates format)
