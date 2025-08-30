@@ -1,6 +1,6 @@
-# ShadowShift 🔐
+# ChromaShift 🔐
 
-A steganography tool that uses histogram shifting techniques to hide encrypted text messages within PNG images. ShadowShift combines AES encryption with histogram-based data embedding for secure covert communication.
+A steganography tool that uses histogram shifting techniques to hide encrypted text messages within PNG images. ChromaShift combines AES encryption with histogram-based data embedding for secure covert communication.
 
 ## 🌟 Features
 
@@ -23,8 +23,8 @@ pip install Pillow numpy pycryptodome
 ### Clone Repository
 
 ```bash
-git clone https://github.com/kaizoku73/ShadowShift.git
-cd ShadowShift
+git clone https://github.com/kaizoku73/ChromaShift.git
+cd ChromaShift
 ```
 
 ## 🚀 Usage
